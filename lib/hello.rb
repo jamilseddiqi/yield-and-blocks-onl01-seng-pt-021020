@@ -8,6 +8,7 @@ def hello_t(array)
     end
     array
 end
+array
 
 # call your method here!
 hello_t(["Tim", "Tom", "Jim"]) do |name|
@@ -15,6 +16,7 @@ hello_t(["Tim", "Tom", "Jim"]) do |name|
     puts "Hi, #{name}"
   end
 end
+
 
 
 # call your method here!
