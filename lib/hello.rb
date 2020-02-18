@@ -8,7 +8,7 @@ def hello_t(array)
     end
     array
 end
-hello_t(1, 2, 2)
+hello_t("one", "two", "three")
 
 
 
