@@ -7,6 +7,7 @@ def hello_t(array)
     i = i + 1
   end
 end
+hello_t
 
 # call your method here!
 
